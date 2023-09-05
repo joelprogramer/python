@@ -17,7 +17,7 @@ while i < 3:
         print("\n rätt svar! \n")
         break
     
-    i = 1
+    i += 1
     if hittat :
         print("\n Bra jobbat, du får en miljon")
     else :
@@ -31,4 +31,4 @@ if hittat :
 else :
     print("\n YOU FUCKING WANKER!")
     
-print("\n-----------")
+print("\n---------------------------------------------------")
